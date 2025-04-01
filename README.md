@@ -1,4 +1,12 @@
-
+<img src = "https://i.postimg.cc/QMP9zLCq/Triumph-And-Tragedy.png" width = 128 height = 128 align = "left">
+<div id = "toc">
+  <ul>
+    <summary>
+      <h1>Triumph & Tragedy I</h1><br>NRP, Fully Automated.
+    </summary>
+  </ul>
+</div>
+<br>
 <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64">
 
 ## Abstract.
@@ -9,9 +17,17 @@
 Since 2022, **Triumph & Tragedy I** has been replaced by **Triumph & Tragedy II** which overhauled nearly all legacy aspects of the game into a cogent multiplayer-focused grand-strategy game with detailed and realistic combat, demographic, economic, military, and political mechanics.
 
 - RP5.2 (National Modifiers, Balancing Changes)
+  - [Source (Repository)](https://github.com/Confoederatio/RP5.2)
 - RP5.1 (RP5 Stabilisation and Bugfixes, Changes to Army Combat)
+  - [Source (Repository)](https://github.com/Confoederatio/RP5.2)
 - RP5 (Troop Movement and Province Supply; Air Combat)
+  - [Source (Repository)](https://github.com/Confoederatio/RP5)
 - RP4 (Combat, Political, Reforms, Technology, Unit Overhauls; Provinces and Cities. Automated Mapping)
-- RP3 (National-level Mostly Automated NRP with Combat Calculators)
-- RP2 (National-level NRP improved from RP1)
-- RP1 (Similar to Country Battle, national-level NRP with no map)
+  - [Source (Repository)](https://github.com/Confoederatio/RP4)
+- RP3 (National-level Mostly Automated NRP with Combat Calculators) - Also known as Triumph & Tragedy Classic.
+  - [Source (Repository)](https://github.com/Confoederatio/RP3)
+  - [Combat Engine](https://github.com/Confoederatio/RP3/blob/main/combat_calculator.html) - Used for semi-automated combat calculations within RP3.
+- RP2 (National-level NRP improved from RP1) - Also known as Fear & Blood.
+  - [Source (Repository)](https://github.com/Confoederatio/RP2)
+- RP1 (Similar to Country Battle, national-level NRP with no map) - Also known as Country Battle.
+  - [Source (Repository)](https://github.com/Confoederatio/RP1)
