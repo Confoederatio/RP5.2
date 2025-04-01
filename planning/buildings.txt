@@ -1,0 +1,112 @@
+UNLOCK: At which techs should various buildings be unlocked?
+
+Farms - (Obsoleted: Sodium Nitrate) [DONE]
+Centralised Farms - Land Centralisation (Obsoleted: Advanced Tractors) [DONE]
+Modern Farms - Early Tractors (Obsoleted: Green Revolution) [DONE]
+Industrial Farms - Industrial Farming [DONE]
+Vertical Farms - Vertical Farming [DONE]
+Plantations - Improved Transportation [DONE]
+
+Bauxite Mines - Deeper Mineshafts [DONE]
+Coal Mines - Wood Beam Support [DONE]
+Copper Mines - Improved Mining Techniques [DONE]
+Gold Mines - Ventilating Galleries [DONE]
+Iron Mines - Improved Mining Techniques [DONE]
+Lead Mines - Wood Beam Support [DONE]
+Silver Mines - Shaft Mining [DONE]
+Sulphur Mines - Ventilating Galleries [DONE]
+
+Guilds - (Obsoleted: Economic Mobility) [DONE]
+Workshops - The Workshop (Obsoleted: Manufactories) [DONE]
+Watermills - The Watermill (Obsoleted: Mills) [DONE]
+Manufactories - Manufactories (Obsoleted: Improved Steam Engine) [DONE]
+Mills - Mills (Obsoleted: Shift Work) [DONE]
+Factories - Factories (Obsoleted: Assembly Plants) [DONE]
+Arsenals - Arsenals (Obsoleted: Industrial Complexes) [DONE]
+Assembly Plants - Assembly Plants (Obsoleted: Civilian Industry) [DONE]
+Industrial Complexes - Industrial Complexes (Obsoleted: Civilian Industry) [DONE]
+Civilian Industries - Civilian Industry [DONE]
+Wartime Industries - Wartime Industry [DONE]
+Production Facilities - Production Facilities [DONE]
+Modern Financial Centres - Modern Financial Centres [DONE]
+AI Hubs - AI Hubs [DONE]
+
+Aluminium Factories - Advanced Metallurgy [DONE]
+Ammunition Factories - Mills [DONE]
+Artillery Factories - Factories [DONE]
+Concrete Factories - Factories [DONE]
+Fertiliser Factories - Sodium Nitrate [DONE]
+Forgeries - (Obsoleted: Bessemer Process) [DONE]
+Machine Parts Factories - Assembly Plants [DONE]
+Small Arms Factories - Arsenals [DONE]
+Steelworks - Bessemer Process [DONE]
+Textile Mills - Mills [DONE]
+
+Derricks - Refineries [DONE]
+Refineries - Refineries [DONE]
+
+Suburbs - Integrated Rail System [DONE]
+Flats - Mass Production [DONE]
+Districts - Modern Urban Transport [DONE]
+CBDs - Modern Financial Centres [DONE]
+
+Ports - Global Trading [DONE]
+Railways - Experimental Railways [DONE]
+Motorways - Limited Access Roads [DONE]
+Aeroports - Civilian Industry [DONE]
+
+TO-DO:
+- Add infrastructure buffs to economic technology
+ - Canals: Lvl. 10 [DONE]
+  - +1 Canal (Improved Agriculture)
+  - +2 Canals (Water Power)
+  - +3 Canals (The Watermill)
+  - +1 Canal (Steel Tools)
+  - +2 Canals (Improved Steam Engine)
+ - Ports: Lvl. 5 [DONE]
+  - +1 Port (Megacorporations)
+  - +1 Port (Free Trade Doctrine)
+  - +1 Port (International Trade Agreements)
+  - +1 Port (Globalisation)
+ - Railways: Lvl. 10 [DONE]
+  - +2 Railways (Iron Railways)
+  - +1 Railway (Cheap Coal)
+  - +1 Railway (Cheap Iron)
+  - +3 Railways (Integrated Rail System)
+  - +2 Railways (High-Speed Rail)
+ - Motorways: Lvl. 10 [DONE]
+  - +1 Motorway (Limited-Access Roads)
+  - +5 Motorways (Integrated Motorways)
+  - +3 Motorways (Modern Urban Transport)
+ - Aeroports: Lvl. 5 [DONE]
+  - +1 Aeroport (Wartime Industry)
+  - +1 Aeroport (High-Speed Rail)
+  - +2 Aeroports (Modern Urban Transport)
+
+- Add petroleum extraction buffs to economic technology
+
+- Add military_buildings_building_slots buffs to army technology, dockyards to naval technology [DONE]
+ - +1 Military Building (Professional Army)
+ - +1 Military Building (Early Railway Mobilisation)
+ - +1 Military Building (Modern Military Doctrine)
+ - +1 Military Building (Extended Air Range)
+ - +1 Military Building (Naval Autonomy)
+- Add processing_facilities_building_slots buffs to economic technology (up to +10) [DONE]
+ - +1 Processing Facility (The Workshop)
+ - +2 Processing Facilities (Water Power)
+ - +1 Processing Facility (Pig Iron Smelting)
+ - +1 Processing Facility (Cast Iron Construction)
+ - +2 Processing Facilities (Wrought Iron Construction)
+ - +1 Processing Facility (Mass Production)
+ - +1 Processing Facility (Civilian Industry)
+ - +1 Processing Facility (Production Facilities)
+- Add research_buildings_building_slots buffs to cultural technology, admin technology (up to +5) [DONE]
+ - +1 Research Buildings (Logical Units)
+ - +1 Research Buildings (Modern Bureaucracy)
+ - +1 Research Buildings (Instant Communications)
+ - +2 Research Buildings (Governmental Digitalisation)
+
+RENAME:
+- Rural Development > Agricultural Development (Done)
+- Petroleum Industry > Petrochemicals (Done)
+- Mineral Development > Mines (Done)

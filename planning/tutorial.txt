@@ -1,0 +1,16 @@
+**Triumph & Tragedy:** _Build, fight, or perish._
+
+Triumph & Tragedy can be at first a confusing game to get into. But once you learn the ropes, its various aspects and challenges can become rewarding. In this video we'll go over the basics, and how to get started.
+
+In order to start playing, you'll need to found a nation. Nation names can always have spaces, and can be named whatever you wish, like so, by issuing the found command. If you mess up on your nation name, you'll always be able to rename it by using the rename command, following the exact same syntax as the previously mentioned found command.
+
+After you've founded your nation, you'll receive a written tutorial in your DMs, along with an accompanying event. It is highly recommended that you follow the advice given to you by the bot. Keep in mind that angled brackets should not be typed literally into your chat bar, but that they should be replaced instead by user input. Type resolve zero to mark the current event as read.
+
+The second thing you'll need to do is actually put your nation on the map. To see the existing world map, go to your server's designated map channel, typically named rp-map, and zoom in on a prospective location. A number should accompany each of the provinces. This is the number that you will input into your settle command, like so.
+
+Now that you've successfully claimed a province, you'll need actual people to inhabit your nation. This is done by founding cities. Issuing the city-new command will take you through various dialogue screens. Try to answer each one accordingly, keeping in mind the Province ID that you had earlier settled. Once your city is founded, you can verify its existence by typing city-list.
+
+Unless you're Makhno, you should make sure that your nation-state has an actual government to rule your people. Type the governments command into your chat bar to bring up a list of valid governments. Located next to the name of each will be the exact command needed to switch to that governmental form. Simply copy and paste your chosen governmental command into your chat bar, and press enter.
+
+Now that you've put your nation on the map, you can begin setting it up!
+

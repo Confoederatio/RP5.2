@@ -1,0 +1,183 @@
+Starting Units:
+
+Skirmishers
+Spearmen
+Swordsmen
+Knights
+Archers
+Longbowmen
+
+Melee Infantry: low ap, high dp, medium manoeuvre, low initiative
+
+Tercio
+Pikemen
+Pike-and-Shot
+
+Early Ranged Infantry:
+
+Arquebusiers
+Snaplock Infantry
+Snapchance Musket
+Matchlock Infantry
+Wheellock Infantry
+Flintlock Infantry
+Musketeers
+Line Infantry
+Grenadiers
+Light Infantry
+Fusiliers
+Napoleonic Infantry
+Rangers
+Guards
+
+Midgame Ranged Infantry:
+
+Riflemen
+Marines
+Breechloaded Infantry
+Franc-Tireurs - enabled as a special resistance unit
+Bolt-Action Infantry
+MG Companies
+Great War Infantry
+Shock Troops
+
+Lategame Ranged Infantry:
+
+Freikorps
+Motorised Infantry
+Paratroopers
+Special Forces
+Modern Infantry
+Combined Arms Infantry
+Contemporary Infantry
+Augmented Infantry
+
+Cavalry:
+
+Lance Cavalry
+Heavy Cavalry
+Light Cavalry
+Curaissiers
+Hussars
+Dragoons
+Uhlans
+Mounted Rifles
+Modern Cavalry
+
+Artillery:
+
+Bombards
+Hand Cannons
+Long Cannons
+Field Culverins
+Demi Cannon
+Field Cannon
+Demi Culverins
+Minions
+Siege Artillery
+Mysorean Rockets
+Carronades
+Congreve Rockets
+Smoothbores
+Rifled Cannons
+Railwayguns
+Field Artillery
+Artillery Howitzers
+Mobile Artillery
+Ack-Ack Guns - specialised in shooting down aeroplanes
+Long-Range Artillery
+Modern Howitzers
+Self-Propelled Artillery
+Rocket Artillery
+Railguns
+Directed Heat Weapons
+
+Armoured Vehicles:
+
+Armoured Cars
+Armoured Personnel Carriers
+Half-Tracks
+Troop Carriers
+Modern Armoured Cars
+Modern APCs
+
+Early Tanks:
+
+Landship
+Light Tanks
+Interwar Tanks
+Medium Tanks
+Heavy Tanks
+Tank Destroyers
+
+Lategame Tanks:
+
+Improved Medium Tanks
+Modern Tank
+Main Battle Tank
+Modern MBT
+Multirole MBT
+
+Balloons:
+
+Reconnaissance Balloons
+Dirigibles
+Zeppelins
+
+Aeroplanes:
+
+Biplanes
+Improved Biplanes
+Monoplane Fighters
+Propeller Fighters
+Fighters
+Advanced Fighters
+Rocket Interceptors
+Jet Fighters
+Multirole Fighters
+Drones
+Stealth Fighters
+AI Multirole Fighters
+
+Early Bombers
+Monoplane Bombers
+Interwar Bombers
+Bombers
+Strategic Bombers
+Stealth Bombers
+AI Bombers
+
+Scout Helicopters
+Multirole Helicopters
+Modern Helicopters
+
+Torpedo Bombers
+Naval Bombers
+
+Naval Units:
+
+Caravels
+Galleons
+Men-of-War
+Ships of the Line
+First Rate
+Frigates
+Steamboat
+Clippers - effectively naval transports, reduces army travel time
+Gunboats
+Ironclads
+Breastwork Monitors
+Cruisers, Destroyers
+Pre-Dreadnoughts
+Dreadnoughts
+Torpedo Boats
+Battlecruisers
+Submarines
+Aircarriers
+Battleships
+Aircraft Carriers
+Nuclear Submarines
+Supercarriers
+Modern Cruisers
+Modern Frigates
+Railgun Cruisers
